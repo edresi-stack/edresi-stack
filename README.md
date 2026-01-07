@@ -21,7 +21,7 @@ that bridge clinical logic, laboratory operations, and real-world hospital const
 👉 **vitaguard-ai-showcase**
 
 ### 🧪 LabOptimizer AI  
-**Next-Generation LIS Middleware & Laboratory Operations Engine**  
+**Next-Generation Add-on LIS & Laboratory Operations Engine**  
 *Operational & Financial Intelligence*
 
 - Intelligent HL7 (MLLP) middleware connecting analyzers to inventory & finance
