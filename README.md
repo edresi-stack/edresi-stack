@@ -19,6 +19,8 @@ that bridge clinical logic, laboratory operations, and real-world hospital const
 🔒 Production codebase is private due to clinical data sensitivity  
 🔗 Public system architecture & logic showcase:  
 👉 **vitaguard-ai-showcase**
+Live demo (UI preview):  
+👉 https://vitaguard-ai.com/
 
 ### 🧪 LabOptimizer AI  
 **Next-Generation Add-on LIS & Laboratory Operations Engine**  
@@ -33,6 +35,8 @@ that bridge clinical logic, laboratory operations, and real-world hospital const
 🔒 Production codebase is private due to operational data sensitivity  
 🔗 Public system architecture & integration showcase:  
 👉 **laboptimizer-ai-lis-add on**
+Live demo (UI preview):  
+👉 https://laboptimizer-ai.netlify.app/
 
 ## 🧠 Engineering Focus
 
